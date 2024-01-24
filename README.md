@@ -33,7 +33,7 @@ Can be any of the following values: ip, fqdn, url, md5, sha, or sha256
 **Examples**
 
 ```powershell
-Convert-StixJsonToCsv -Inputfile kruger.json -Outputfile smoothing.csv
+Convert-StixToCsv -Inputfile kruger.json -Outputfile smoothing.csv
 ```
 
 ```powershell
